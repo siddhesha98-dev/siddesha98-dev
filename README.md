@@ -6,16 +6,16 @@ A passionate *Full Stack Java Developer* 🚀 and *Tech Enthusiast* 💡 from In
 
 ## 👨‍💻 What I Do
 - 🚀 Full Stack Java Developer  
-- 🧠 Experienced with *Kafka, **SQL, and **Hibernate*  
+- 🧠 Experienced with *Angular, **SQL, and **Hibernate*, *Java, **SpringBoot  
 - 🎥 Explore my projects here 👉 [My GitHub](https://github.com/siddhesha98-dev)  
 - 📚 I believe the best way to learn is by teaching someone who doesn’t know.  
 
 ---
 
 ## 📫 How to Reach Me
-- 🌐 Website: [siddesha.netlify.app]()  
-- 💼 LinkedIn: [siddesh Ambekar](http://linkedin.com/in)  
+- 🌐 Website: [siddhesha.netlify.app]()  
+- 💼 LinkedIn: (https://www.linkedin.com/in/siddhesh-ambekar-b3861b3b3/))  
 
 ---
 
-⭐ From [siddesh Ambekar](https://github.com/siddesha98-dev)
+⭐ From [siddhesh Ambekar](https://github.com/siddesha98-dev)
